@@ -43,8 +43,30 @@ namespace Site.Controllers
             }
         }
 
-       
-        
+
+        [HttpGet]
+        public ActionResult Edit(Category model)
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult Edit(int id,string name)
+        {
+            
+            try
+            {
+                var biz = new CategoryBiz();
+                biz.Actualizar(id,name);
+                return RedirectToAction("Index");
+            }
+            catch (Exception e)
+            {
+                return RedirectToAction("Index");
+            }
+        }
+
+
         public ActionResult Delete(Category model)
         {
       

@@ -34,6 +34,20 @@ namespace Business
 
         }
 
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="model"></param>
+        public void Actualizar(int id, string name)
+        {
+            var db = new BaseDataService<Category>();
+            Category model = db.GetById(id);
+            model.Name = name;
+            db.Update(model);
+
+        }
+
         /// <summary>
         /// 
         /// </summary>

@@ -13,5 +13,6 @@ namespace Entities.Models
         [MaxLength(20)]
         public string Name { get; set; }
 
+      
     }
 }
