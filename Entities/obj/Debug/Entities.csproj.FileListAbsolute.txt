@@ -1,0 +1,4 @@
+C:\Users\u6039112\source\repos\Entities\bin\Debug\Entities.dll
+C:\Users\u6039112\source\repos\Entities\bin\Debug\Entities.pdb
+C:\Users\u6039112\source\repos\Entities\obj\Debug\Entities.dll
+C:\Users\u6039112\source\repos\Entities\obj\Debug\Entities.pdb

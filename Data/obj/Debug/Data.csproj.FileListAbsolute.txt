@@ -1,0 +1,15 @@
+C:\Users\u6039112\source\repos\Data\bin\Debug\Data.dll
+C:\Users\u6039112\source\repos\Data\bin\Debug\Data.pdb
+C:\Users\u6039112\source\repos\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\u6039112\source\repos\Data\obj\Debug\Data.dll
+C:\Users\u6039112\source\repos\Data\obj\Debug\Data.pdb
+C:\Users\u6039112\source\repos\Data\bin\Debug\Data.dll.config
+C:\Users\u6039112\source\repos\Data\bin\Debug\Entities.dll
+C:\Users\u6039112\source\repos\Data\bin\Debug\EntityFramework.dll
+C:\Users\u6039112\source\repos\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\u6039112\source\repos\Data\bin\Debug\Entities.pdb
+C:\Users\u6039112\source\repos\Data\bin\Debug\EntityFramework.xml
+C:\Users\u6039112\source\repos\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\u6039112\source\repos\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\u6039112\source\repos\Data\obj\Debug\Data.Migrations.InitialCreate.resources
+C:\Users\u6039112\source\repos\Data\obj\Debug\Data.csproj.GenerateResource.cache
